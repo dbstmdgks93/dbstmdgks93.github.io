@@ -1,6 +1,6 @@
 # Site
 title:                "Seunghan Yoon"  
-bio:                'Minimal, one column jekyll theme.'
+bio:                'Welcome :)'
 description:        "Welcome. I'm Seunghan Yoon"
 reading_time:       true
 words_per_minute:   200
@@ -40,7 +40,7 @@ disqus_shortname:   taylantatli
 #email:
 twitter:            username
 facebook:           username
-github-url:         username
+github-url:         dbstmdgks93
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username

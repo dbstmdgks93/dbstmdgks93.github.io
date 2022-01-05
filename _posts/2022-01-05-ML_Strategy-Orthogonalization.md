@@ -7,7 +7,7 @@ tag:
 - Machine Learning
 - Orthogonalization
 - Coursera
-comments: true
+comments: false
 ---
 
 
