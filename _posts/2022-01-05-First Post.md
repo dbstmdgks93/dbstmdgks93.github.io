@@ -16,6 +16,4 @@ comments: true
 
 # First Post
 
-Sample
-
-샘플
+첫번째 문장
