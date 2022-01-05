@@ -4,12 +4,10 @@ title:  "Orthogonalization"
 date:   2022-01-05
 excerpt: "https://www.coursera.org/learn/machine-learning-projects/lecture/FRvQe/orthogonalization"
 tag:
-- markdown 
-- syntax
-- sample
-- test
-- jekyll
-comments: true
+- Machine Learning
+- Orthogonalization
+- Coursera
+comments: false
 ---
 
 
