@@ -4,7 +4,7 @@ title:  "Single Number Evaluation Metric"
 date:   2022-01-06
 excerpt: ""
 tag:
-- Coursera -> Structuring Machine Learning Projects
+- Coursera - Structuring Machine Learning Projects
 comments: false
 ---
 
