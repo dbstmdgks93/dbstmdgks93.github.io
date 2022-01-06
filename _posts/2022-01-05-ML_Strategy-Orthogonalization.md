@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Orthogonalization"
+title:  "01 : Orthogonalization"
 date:   2022-01-05
 excerpt: ""
 tag:

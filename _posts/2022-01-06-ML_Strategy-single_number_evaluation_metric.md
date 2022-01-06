@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Single Number Evaluation Metric"
+title:  "02 : Single Number Evaluation Metric"
 date:   2022-01-06
 excerpt: ""
 tag:

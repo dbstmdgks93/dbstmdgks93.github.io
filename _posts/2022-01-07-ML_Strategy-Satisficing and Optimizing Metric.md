@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Satisficing and Optimizing Metric"
+title:  "03 : Satisficing and Optimizing Metric"
 date:   2022-01-07
 excerpt: ""
 tag:
