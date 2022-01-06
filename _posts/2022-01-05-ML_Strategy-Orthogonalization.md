@@ -2,7 +2,7 @@
 layout: post
 title:  "Orthogonalization"
 date:   2022-01-05
-excerpt: "https://www.coursera.org/learn/machine-learning-projects/lecture/FRvQe/orthogonalization"
+excerpt: ""
 tag:
 - Coursera - Structuring Machine Learning Projects
 comments: false
